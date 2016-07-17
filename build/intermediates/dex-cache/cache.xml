@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_2928cb9c2c6177e43d69636e51f307673c512c20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_14bc11d70957ceb1f36555f36a323e832abec6d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_8d5c988d72ca96ecb9e3c9f7a4814f364cb3aef7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e38a1509eddfaaaa5c5d94d58010803aedc9cabd">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed76342d6fee424e81e652eda07626d9d30c6584/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_64030896284f65336c20fbce492394b564a3c750/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_2b79c38c8ed7aada6363baef4ef21bda8b21ac1c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_519acb1c870fa2f21191aa24264858236bb0ab9f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_3e5d7566f16d0b06cd4e8a964aae977081ca9a46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="464490ba619d15a2731b9398258e3c3e87547283">
+        <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0e477f0b98ee311d076e56293a24112e311fbc0/classes.dex" />
+    </item>
+
+</items>
