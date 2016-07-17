@@ -26,7 +26,7 @@
         jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="e38a1509eddfaaaa5c5d94d58010803aedc9cabd">
+        sha1="12405f02fabebc7fad8de0c2b069c99458271058">
         <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed76342d6fee424e81e652eda07626d9d30c6584/classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jar="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="464490ba619d15a2731b9398258e3c3e87547283">
+        sha1="e33a5a70642986af7270ef13a9aed2b2e3d859e1">
         <dex dex="/Users/panwankun/code/CustomFeature-RecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0e477f0b98ee311d076e56293a24112e311fbc0/classes.dex" />
     </item>
 

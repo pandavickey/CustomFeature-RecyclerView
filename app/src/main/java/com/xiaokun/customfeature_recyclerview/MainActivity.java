@@ -16,19 +16,21 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private MainAdapter adapter;
+    private ExampleGridAdapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerview);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        GridLayoutManager layoutManager = new GridLayoutManager(this, 4);
+        recyclerView.setLayoutManager(layoutManager);
+        recyclerView.addItemDecoration(new SelectedGridItemDecoration(4));
         List<String> datas = new ArrayList<>();
         for (int i = 0; i < 103; i++) {
             datas.add(i + "");
         }
-        adapter = new MainAdapter(this, datas);
+        adapter = new ExampleGridAdapter(this, datas);
         recyclerView.setItemAnimator(new LeftInRightOutAnimator());
         recyclerView.setAdapter(adapter);
     }
